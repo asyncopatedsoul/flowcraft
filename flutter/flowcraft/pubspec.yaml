@@ -1,0 +1,46 @@
+name: flowcraft
+description: "A new Flutter project."
+
+# Prevent accidental publishing to pub.dev.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.1 <4.0.0'
+
+dependencies:
+  app_links: ^6.3.3
+  envied: ^1.1.0
+  extension_google_sign_in_as_googleapis_auth: ^2.0.12
+  flutter:
+    sdk: flutter
+  flutter_inappwebview: ^6.1.5
+  flutter_localizations:
+    sdk: flutter
+  google_sign_in: ^6.2.2
+  googleapis: ^13.2.0
+  powersync: ^1.9.3
+  shared_preferences_android: ^2.4.0
+  supabase_flutter: ^2.0.0
+  url_launcher: ^6.3.1
+  youtube_player_flutter: ^9.1.1
+  youtube_player_iframe: ^5.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+  envied_generator: ^1.1.0
+  build_runner: ^2.4.14
+
+flutter:
+  uses-material-design: true
+
+  # Enable generation of localized Strings from arb files.
+  generate: true
+
+  assets:
+    # Add assets from the images directory to the application.
+    - assets/images/

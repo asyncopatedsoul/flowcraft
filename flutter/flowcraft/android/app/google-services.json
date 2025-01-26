@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "99059907848",
+    "firebase_url": "https://holod3x-default-rtdb.firebaseio.com",
+    "project_id": "holod3x",
+    "storage_bucket": "holod3x.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99059907848:android:8f50ba69b72c83c3f400bd",
+        "android_client_info": {
+          "package_name": "com.example.flo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99059907848-aufm6p5pg4vcg99fjlj63atjro77g3ns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdbps-8c_dPvgLLNXO45m2IEU3ZLfX_jQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99059907848-aufm6p5pg4vcg99fjlj63atjro77g3ns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99059907848:android:c47612aeb0ab35f0f400bd",
+        "android_client_info": {
+          "package_name": "com.example.flowcraft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99059907848-aufm6p5pg4vcg99fjlj63atjro77g3ns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdbps-8c_dPvgLLNXO45m2IEU3ZLfX_jQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99059907848-aufm6p5pg4vcg99fjlj63atjro77g3ns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
